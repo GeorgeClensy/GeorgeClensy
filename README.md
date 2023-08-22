@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am IAmGeeCee (Its the first letters of my actuall name)! My fav language is C# and i'm learning JavaScript. I do programming as a hobby. Andorid is obviously better and scone is pronounced scone
+~~I am IAmGeeCee!~~ I am Gee Cee... I program (as a hobby) with microsoft's dotnet framework, mainly C#. I also know html,css,xaml in uwp and am learning javascript. I can't decide whether i want to do web development or app development. I can also never think of any ideas, hence the one project im working on and sort of not working on at the time of writing this. Android is better and scone is pronounced scone.
 
-Working on an app called yourpaper so check that out.
-
-Thx for reading this btw! Have a nice day ❤
+Thank you for reading this. Byeee 👋
