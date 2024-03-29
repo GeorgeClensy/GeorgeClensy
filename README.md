@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-~~I am IAmGeeCee!~~ I am Gee Cee... I program (as a hobby) with microsoft's dotnet framework, mainly C#. I also know html,css,xaml in uwp and am learning javascript. I can't decide whether i want to do web development or app development. Android is better and scone is pronounced scone.
+I'm George, i program as a hobby in C++, C#, Html, CSS and i know a bit of Javascript. I'm currently working on a game in C++ so you'll probably hear about that at some point if you follow me. My X (ex-twitter) is @GeorgeClensy so please follow me there. 
 
-Thank you for reading this. Byeee 👋
+Bye
